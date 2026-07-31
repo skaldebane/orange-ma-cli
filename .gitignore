@@ -1,0 +1,4 @@
+config.toml
+*.auth-state.json
+__pycache__/
+*.pyc
